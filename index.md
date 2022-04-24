@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Everyone Commands
 
-You can use the [editor on GitHub](https://github.com/Nibbz-02/Comands/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### !Boop
+Give someone a Boop on da snoot.
+> !Boop @user
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### !Cute
+Fund out how cute you are.
+> !cute
 
-### Markdown
+### !checkcute
+Find out how cute someone else is.
+> !checkcute @user
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### !hug
+Give someone a big ole hug.
+> !hug @user
 
-```markdown
-Syntax highlighted code block
+### !lurk
+show your support even if you can't chat.
+> !lurk
 
-# Header 1
-## Header 2
-### Header 3
+### !pun
+recieve one of the finest Dad Jokes i have in my collection... (theres 138 of them)
+> !pun
 
-- Bulleted
-- List
+### !stimk
+Call someone out for being a bit stimky
+> !Stimk
 
-1. Numbered
-2. List
+## Moderator Commands
 
-**Bold** and _Italic_ and `Code` text
+### !SO
+Shoutout the channel mentioned.
+> !SO @MasterNibbz
 
-[Link](url) and ![Image](src)
-```
+## Supermoderator Commands
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### !game
+Sets the stream Catagory. Must match a catagory EXACTLY.
+> !game Art
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nibbz-02/Comands/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### !title
+Sets the stream title.
+> !title A really cool Title for the stream
