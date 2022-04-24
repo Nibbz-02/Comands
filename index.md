@@ -1,5 +1,9 @@
 ## Everyone Commands
 
+### !Commands
+Brings you to the list of commands... which is here...
+> !commands
+
 ### !Boop
 Give someone a Boop on da snoot.
 > !Boop @user
